@@ -25,9 +25,11 @@ const randomDelay = (min, max) => {
 
 const displayWelcome = () => {
     console.log(`
-                \x1b[32m🌟 DAWN Validator Extension automatic claim 🌟\x1b[0m
-                          \x1b[36mGithub: recitativonika\x1b[0m
-                        \x1b[36mgithub.com/recitativonika\x1b[0m
+                🍉🍉🍉 19Seniman From Insider 🍉🍉🍉
+                
+                PLEASE SUPPORT PALESTINE ON YOUR SOCIAL MEDIA sir 🥲
+                Donate me : Dana ~ 085830000502
+                evm address : 0xf01fb9a6855f175d3f3e28e00fa617009c38ef59
     `);
 };
 
