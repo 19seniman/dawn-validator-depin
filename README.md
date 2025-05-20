@@ -34,7 +34,10 @@
 ~ Login/register Dawn Validator account and login, get the token in "getpoint?appid=" -> "authorization:" at network tab in inspect element in browser. 
 
 4. Edit the `proxy.js` if you want to use proxy
-5. Run the script to start, use :
+   ```
+   nano proxy.js
+   ```
+6. Run the script to start, use :
     ```
     node index.js
     ```
